@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gita Ramayana Updesh</string>
+
+    <string name="openDrawer">Open Navigation Drawer</string>
+    <string name="closeDrawer">Close Navigation Drawer</string>
+
+    <string name="headerText">यदा यदा हि धर्मस्य ग्लानिर्भवति भारत अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्</string>
+
+    <string-array name="menu_items_list">
+        <item>Shrimad Bhagavad Gita</item>
+        <item>श्रीमद् भगवद्गीता</item>
+        <item>Shri Ramayana</item>
+        <item>श्री रामायण</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/gita_quotes_category">
+        <item
+            android:title="Shrimad Bhagavad Gita"
+            android:id="@+id/gita_english" />
+        <item
+            android:title="श्रीमद् भगवद्गीता"
+            android:id="@+id/gita_hindi" />
+    </group>
+    <group
+        android:id="@+id/ramayana_quotes_category">
+        <item
+            android:title="Shri Ramayana"
+            android:id="@+id/ramayana_english" />
+        <item
+            android:title="श्री रामायण"
+            android:id="@+id/ramayana_hindi" />
+    </group>
+    <group
+        android:id="@+id/settings_category">
+        <item
+            android:title="Rate Our App"
+            android:id="@+id/rate_app"
+            android:icon="@drawable/ic_thumb_up_black_24dp"/>
+        <item
+            android:title="Share Our App"
+            android:id="@+id/share_app"
+            android:icon="@drawable/ic_share_black_24dp"/>
+    </group>
+</menu>
